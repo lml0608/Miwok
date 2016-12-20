@@ -23,7 +23,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
-
+//nihao
 public class NumbersActivity extends AppCompatActivity {
 
     @Override
